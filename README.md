@@ -4,5 +4,6 @@
 
 <h3>Project Gif</h3>
 
-https://github.com/nazanyilmaz/Social-App-React/assets/147782488/4de563b0-c838-438c-8c38-923231a1550f
 
+
+![Uploading ScreenRecording2024-01-30at11.40.41AM-ezgif.com-optimize.gif…]()
