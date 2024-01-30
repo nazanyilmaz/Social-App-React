@@ -6,4 +6,4 @@
 
 
 
-![Uploading ScreenRecording2024-01-30at11.40.41AM-ezgif.com-optimize.gif…]()
+![ScreenRecording2024-01-30at11 40 41AM-ezgif com-optimize](https://github.com/nazanyilmaz/Social-App-React/assets/147782488/8f6941bc-5ab0-4611-8bde-6794143556e4)
